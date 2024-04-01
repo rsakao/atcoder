@@ -1,1 +1,2 @@
 # atcoder
+atcoderを解いて載せるリポジトリです
